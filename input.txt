@@ -1,0 +1,1 @@
+The locked Solution class in your editor will pass different types of arrays to your printArray function.
